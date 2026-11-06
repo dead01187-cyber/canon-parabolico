@@ -1,4 +1,4 @@
-# 🎯 Cañón Parabólico
+# Cañón Parabólico
 
 Simulador de tiro parabólico hecho en Python con Pygame.
 
@@ -36,7 +36,7 @@ El detalle de cómo trabajo con las ramas está en [FLUJO.md](FLUJO.md).
 
 ---
 
-## 📚 Investigación: Pygame
+## Investigación: Pygame
 
 ### ¿Qué es Pygame y para qué se utiliza?
 
